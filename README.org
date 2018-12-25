@@ -1,9 +1,9 @@
-#+title: animatedCss
-#+author: Guðjón
-#+email: chp3@hi.is
-#+startup: overview
+# #+title: animatedCss
+# #+author: Guðjón
+# #+email: chp3@hi.is
+# #+startup: overview
 # #+options: author:nil date:nil num:nil toc:nil p:nil stat:nil
-#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+# #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 
 * COMMENT Planning todo
 ** NPM
