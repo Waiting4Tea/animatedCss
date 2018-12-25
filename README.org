@@ -2,7 +2,7 @@
 #+author: Guðjón
 #+email: chp3@hi.is
 #+startup: overview
-#+options: num:nil toc:nil p:nil stat:nil
+#+options: num:nil toc:nil p:nil stat:nil author: nil date:nil
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 
 * COMMENT Planning todo
