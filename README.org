@@ -1,0 +1,21 @@
+#+title: animatedCss
+#+author: Guðjón
+#+email: chp3@hi.is
+#+startup: overview
+#+options: num:nil toc:nil p:nil stat:nil
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+
+* COMMENT Planning todo
+** NPM
+*** Package.json
+   - setup package.json
+**** Rollup (pack every exist js file into one file)
+     - setup rollup
+**** Node-sass (convert scss to css)
+     - setup node-sass
+**** Stylelint (linting for css)
+     - setup stylelint
+**** Eslint (linting for js)
+     - setup eslint
+* animatedCss
+  - This is the small project to create a simple website that show animated object and maybe some collision too.
