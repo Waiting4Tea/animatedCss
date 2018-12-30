@@ -8,7 +8,7 @@
     "rollup": "rollup -c",
     "browser-sync": "browser-sync start --server --files index.html ./dist/styles.css ./dist/bundle.js",
     "stylelint": "stylelint ./src/styles/**/*.scss --syntax scss",
-    "sass": "node-sass --source-map-embed ./src/styles/styles.scss ./dist/styles.css",
+    "sass": "node-sass --source-map-embed ./src/styles/styles.scss ./dist/styles.css"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,6 @@
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
-    "browser-sync": "^2.26.3",
     "eslint": "^5.8.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
